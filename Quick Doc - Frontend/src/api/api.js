@@ -1,0 +1,1 @@
+export const chatbotAPI = `https://d16d-2402-d000-8128-1e-acee-ea75-62e1-9ac9.ngrok-free.app`;
